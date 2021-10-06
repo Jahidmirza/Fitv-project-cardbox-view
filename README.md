@@ -1,17 +1,18 @@
-![Facebook](https://img.shields.io/badge/Face-book-blue.svg)
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Pinterest][pinterest-shield]][pinterest-url]
-
+<!-- MARKDOWN LINKS TO GET IN TOUCH -->
+<p align="left">
+<a href="https://codepen.io/jahidmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jahidmirza" height="30" width="40" /></a>
+<a href="https://twitter.com/webmirzabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webmirzabd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jahidmirzabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahidmirzabd" height="30" width="40" /></a>
+<a href="https://fb.com/itzjahidmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itzjahidmirza" height="30" width="40" /></a>
+<a href="https://instagram.com/jahidmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahidmirza" height="30" width="40" /></a>
+</p>
 
 <p align="center">
   <h3 align="center"><a href="https://github.com/Jahidmirza/Fitv-project-cardbox-view">Fitv-project-cardbox-view</a></h3>
 
 ## Demo View link
 
-You can  See live in here - https://
+You can  See live in here - https://jahidmirza.github.io/Fitv-project-cardbox-view
 
 ## HTML Template
 
@@ -27,10 +28,6 @@ Repository Link: [https://github.com/Jahidmirza/Fitv-project-cardbox-view](https
 
 
 
-<!-- MARKDOWN LINKS TO GET IN TOUCH -->
-[linkedin-url]: https://www.linkedin.com/jahidmirzabd
-[facebook-url]: https://www.facebook.com/itzjahidmirza
-[instagram-url]: https://www.instagram.com/jahidmirza
-[twitter-url]: https://twitter.com/webmirzabd
-[pinterest-url]: https://www.pinterest.com/webmirzabd
+
+
 
