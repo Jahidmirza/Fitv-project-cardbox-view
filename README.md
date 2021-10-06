@@ -1,6 +1,9 @@
+
 [![Facebook][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![Pinterest][pinterest-shield]][pinterest-url]
 
 
 <p align="center">
